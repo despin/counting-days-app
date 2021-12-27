@@ -1,0 +1,6 @@
+module Pods_CountingDaysApp {
+  umbrella header "Pods-CountingDaysApp-umbrella.h"
+
+  export *
+  module * { export * }
+}

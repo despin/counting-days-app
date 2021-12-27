@@ -1,0 +1,6 @@
+module Pods_CountingDaysApp_CountingDaysAppTests {
+  umbrella header "Pods-CountingDaysApp-CountingDaysAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
